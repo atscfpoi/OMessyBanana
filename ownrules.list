@@ -1,0 +1,7 @@
+#Title: own-rules
+#域名优先直通
+DOMAIN-SUFFIX,atscfpoi.top
+DOMAIN-SUFFIX,apad.pro
+DOMAIN-SUFFIX,66a.net
+DOMAIN-SUFFIX,zhusiot.com
+IP-CIDR,47.238.148.52/32,no-resolve
