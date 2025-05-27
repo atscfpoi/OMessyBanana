@@ -4,5 +4,7 @@ DOMAIN-SUFFIX,atscfpoi.top
 DOMAIN-SUFFIX,apad.pro
 DOMAIN-SUFFIX,66a.net
 DOMAIN-SUFFIX,zhusiot.com
+#science
+DOMAIN-SUFFIX,archu.org
 IP-CIDR,47.238.148.52/32,no-resolve
 IP-CIDR,149.104.1.127/32,no-resolve
