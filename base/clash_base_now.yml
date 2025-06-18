@@ -179,7 +179,6 @@ dns:
   - +.googleapis.cn
   - +.xn--ngstr-lra8j.com
   - +.clientservices.googleapis.com
-  - geosite:cn
   use-system-hosts: false
 external-controller-cors:
   allow-private-network: true
