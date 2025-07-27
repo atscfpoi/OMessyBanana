@@ -6,5 +6,5 @@ DOMAIN-SUFFIX,66a.net
 DOMAIN-SUFFIX,zhusiot.com
 #science
 DOMAIN-SUFFIX,archu.org
-IP-CIDR,47.238.148.52/32,no-resolve
 IP-CIDR,149.104.1.127/32,no-resolve
+IP-CIDR,154.193.244.250/32,no-resolve
