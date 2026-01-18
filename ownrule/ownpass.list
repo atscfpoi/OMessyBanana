@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,registry.dockermirror.com
+# 神秘的ai网站
+DOMAIN-SUFFIX,newcli.com
 # Tailscale DERP Servers
 
 # Domain
