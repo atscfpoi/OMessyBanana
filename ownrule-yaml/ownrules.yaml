@@ -1,0 +1,13 @@
+# Title: own-rules
+# 域名优先直通 & science
+# TOTAL: 8
+
+payload:
+  - DOMAIN-SUFFIX,atscfpoi.top
+  - DOMAIN-SUFFIX,apad.pro
+  - DOMAIN-SUFFIX,66a.net
+  - DOMAIN-SUFFIX,zhusiot.com
+  - DOMAIN-SUFFIX,archu.org
+  - IP-CIDR,149.104.1.127/32,no-resolve
+  - IP-CIDR,43.138.247.173/32,no-resolve
+  - IP-CIDR,109.244.63.163/32,no-resolve

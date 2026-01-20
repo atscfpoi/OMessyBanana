@@ -1,0 +1,38 @@
+# Title: own-out-需前置
+# GooglePlay, PS5 STUN, Cloudflare DNS, 嵌入式, PT, Google, EA Desktop, PikPak, linux.do, mnapi, airplane
+# TOTAL: 35
+
+payload:
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,stun.playstation.net
+  - IP-CIDR,1.1.1.1/32,no-resolve
+  - IP-CIDR,1.0.0.1/32,no-resolve
+  - DOMAIN-SUFFIX,platformio.org
+  - DOMAIN-SUFFIX,arduino.cc
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+  - DOMAIN,mypikpak.com
+  - DOMAIN,mypikpak.net
+  - DOMAIN,user.mypikpak.com
+  - DOMAIN,access.mypikpak.com
+  - DOMAIN,config.mypikpak.com
+  - DOMAIN,api-drive.mypikpak.com
+  - DOMAIN,res-etl-ssl.mypikpak.com
+  - DOMAIN,static.mypikpak.com
+  - DOMAIN,sg-thumbnail-drive.mypikpak.com
+  - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+  - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+  - DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+  - DOMAIN-SUFFIX,hub5pnc.sandai.net
+  - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+  - DOMAIN-SUFFIX,hubciddata.sandai.net
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN,cf.mnapi.com
+  - DOMAIN-SUFFIX,nutsfind.com
+  - DOMAIN,69yun69.com
+  - DOMAIN,ikuuu.org
+  - DOMAIN,neon-link.com
