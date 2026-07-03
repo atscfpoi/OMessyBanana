@@ -38,3 +38,4 @@ payload:
   - DOMAIN,neon-link.com
   - DOMAIN,biorender.com
   - DOMAIN,cytekbio.com
+  - IP-CIDR,138.75.58.11/32,no-resolve
