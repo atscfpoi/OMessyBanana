@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,ftqq.com
   - DOMAIN-SUFFIX,biocloudai.cn
   - DOMAIN-REGEX,^derp.*tailscale\.com
+  - IP-CIDR,103.215.36.192/32,no-resolve
   - IP-CIDR,199.38.181.104/32,no-resolve
   - IP-CIDR,209.177.145.120/32,no-resolve
   - IP-CIDR,199.38.181.93/32,no-resolve
