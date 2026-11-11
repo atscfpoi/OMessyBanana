@@ -5,6 +5,9 @@
 payload:
   - DOMAIN-SUFFIX,apad.pro
   - DOMAIN-SUFFIX,glkvm.cn
+  - DOMAIN-SUFFIX,glkvm.local
+  - DOMAIN-SUFFIX,gl-inet.cn
+  - DOMAIN,stun.miwifi.com
   - DOMAIN-SUFFIX,seeinnas.com
   - DOMAIN-SUFFIX,xiyingnas.com
   - DOMAIN-SUFFIX,mypikpak.com
@@ -50,6 +53,15 @@ payload:
   - DOMAIN-SUFFIX,ftqq.com
   - DOMAIN-SUFFIX,biocloudai.cn
   - DOMAIN-REGEX,^derp.*tailscale\.com
+  - IP-CIDR,47.106.64.254/32,no-resolve
+  - IP-CIDR,47.106.75.61/32,no-resolve
+  - IP-CIDR,47.107.38.56/32,no-resolve
+  - IP-CIDR,47.107.250.217/32,no-resolve
+  - IP-CIDR,47.112.201.254/32,no-resolve
+  - IP-CIDR,203.2.119.124/32,no-resolve
+  - IP-CIDR,14.22.113.179/32,no-resolve
+  - IP-CIDR,110.188.24.21/32,no-resolve
+  - IP-CIDR,111.206.174.2/32,no-resolve
   - IP-CIDR,103.215.36.192/32,no-resolve
   - IP-CIDR,199.38.181.104/32,no-resolve
   - IP-CIDR,209.177.145.120/32,no-resolve
